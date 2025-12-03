@@ -15,7 +15,7 @@ Bem-vindos aos projetos das aulas do Senac, feito por **Bryan Willian Cabral Bra
 - HTML5
 - CSS3
 - JavaScript (ES6+)
-- Bootstrap-
+- Bootstrap
 - Git e GitHub
 - VS Code
 
@@ -26,5 +26,6 @@ Bem-vindos aos projetos das aulas do Senac, feito por **Bryan Willian Cabral Bra
 **Bryan Willian Cabral Brandão**
 
 Turma de Tecnologia em Informática para internet (Vespertino) - Senac DF
+
 
 
