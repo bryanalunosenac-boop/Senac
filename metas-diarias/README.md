@@ -56,6 +56,8 @@ https://github.com/bryanalunosenac-boop/Senac.git
 - Organização na estrutura de códigos
 - Funções com a Linguagem JavaScrpit
 
+---
+
 ## 🧑‍🎓 O que eu aprendi?
 
 - Responsividade com CSS
