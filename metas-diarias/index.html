@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <title>Metas diárias</title>
+</head>
+<body>
+    <header>
+        <h1>Painel de Metas Diárias</h1>
+    </header>
+    <main>
+        <section>
+            <form id="formulario">
+                <input id="titulo" type="text" placeholder="Título" required>
+                <textarea id="descricao" placeholder="Descrição"></textarea>
+                <select id="prioridade">
+                    <option value="baixa">Baixa</option>
+                    <option value="média">Média</option>
+                    <option value="alta">Alta</option>
+                </select>
+                <input id="data" type="date" required>
+                <button type="submit" id="btn-adicionar">Adicionar</button>
+            </form>
+            <div id="erro"></div>
+        </section>
+        <section id="lista">
+            <h2>Metas adicionadas</h2>
+            <ul id="lista-metas"></ul>
+        </section>
+    </main>
+    <footer>
+        <span>Bryan Willian</span>
+        <span>17 de novembro de 2025</span>
+    </footer>
+    <script src="./js/script.js"></script>
+</body>
+</html>
