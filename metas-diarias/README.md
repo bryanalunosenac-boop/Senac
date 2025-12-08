@@ -29,17 +29,17 @@ O Objetivo do projeto é adicionar uma meta com uma descrição e determinar a s
 1 Baixe o repositório (Clique no Botão “Code” > Download ZIP)​2 Extraia a pasta​3 Abra o arquivo index.html no navegador​
 
 Acesse o projeto online
-https://luiscamara123.github.io/Senac/Formul%C3%A1rio-metas/
+https://bryanalunosenac-boop.github.io/Senac/metas-diarias/
 
 ---
 
 ## 🧬 Como clonar o projeto​
 
-No terminal do VS Code digite:​git clone https://github.com/Luiscamara123/Senac.git
+No terminal do VS Code digite:​git clone https://github.com/bryanalunosenac-boop/Senac.git
 
 No GitHub Desktop:​No menu: File(Arquivo) > Clone a repositor(Clonar repositório) > Selecione a aba URL, no campo URL, cole o link do repositório
 
-https://github.com/Luiscamara123/Senac.git
+https://github.com/bryanalunosenac-boop/Senac.git
 
 ---
 
