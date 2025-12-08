@@ -1,4 +1,4 @@
-# 💻 Painel-frase
+# 💻 Projeto - Painel-frase
 
 O objetivo do projeto é gerar frases motivacionais após apertar no botão.
 
