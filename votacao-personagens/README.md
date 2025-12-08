@@ -1,1 +1,66 @@
+## Projeto - Votação de personagens
 
+A ideia desse projeto é criar um sistema de votação dos personagens de Smiling Friends, uma série de animação da Adult Swim.
+
+---
+
+## ⚙️ Funcionalidades
+
+- Cria um sistema de votação
+- Mostra quem está ganhando em votos
+- Layout responsivo
+
+---
+
+## 🌐 Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- VS Code
+- Git e GitHub
+
+---
+
+## 💿 Como rodar o projeto​?
+
+1 Baixe o repositório (Clique no Botão “Code” > Download ZIP)​
+
+2 Extraia a pasta​
+
+3 Abra o arquivo index.html no navegador​
+
+Acesse o projeto online
+https://luiscamara123.github.io/Senac/Painel-frases/
+
+---
+
+## 🧬 Como clonar o projeto​
+
+No terminal do VS Code digite:​git clone https://github.com/bryanalunosenac-boop/Senac.git
+
+No GitHub Desktop:​No menu: File(Arquivo) > Clone a repositor(Clonar repositório) > Selecione a aba URL, no campo URL, cole o link do repositório
+
+https://github.com/bryanalunosenac-boop/Senac.git
+
+---
+
+## 🏆 Melhorias futuras
+
+- Organização na estrutura de códigos
+- Funções com a Linguagem JavaScrpit
+
+---
+
+## 👨🏻‍💼 O que eu aprendi?
+
+- Responsividade e layout com CSS
+- Estrutura e validação de códigos com JavaScript
+
+---
+
+## 🖌️Autor
+
+**Bryan Willian Cabral Brandão**
+
+Turma de Tecnologia em informática para internet (Vespertino) - Senac DF
