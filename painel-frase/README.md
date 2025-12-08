@@ -37,11 +37,11 @@ https://luiscamara123.github.io/Senac/Painel-frases/
 
 ## 🧬 Como clonar o projeto​
 
-No terminal do VS Code digite:​git clone https://github.com/Luiscamara123/Senac.git
+No terminal do VS Code digite:​git clone https://github.com/bryanalunosenac-boop/Senac.git
 
 No GitHub Desktop:​No menu: File(Arquivo) > Clone a repositor(Clonar repositório) > Selecione a aba URL, no campo URL, cole o link do repositório
 
-https://github.com/Luiscamara123/Senac.git
+https://github.com/bryanalunosenac-boop/Senac.git
 
 ---
 
