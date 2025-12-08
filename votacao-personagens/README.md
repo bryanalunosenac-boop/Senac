@@ -31,7 +31,7 @@ A ideia desse projeto é criar um sistema de votação dos personagens de Smilin
 3 Abra o arquivo index.html no navegador​
 
 Acesse o projeto online
-https://luiscamara123.github.io/Senac/Painel-frases/
+https://bryanalunosenac-boop.github.io/Senac/votacao-personagens/
 
 ---
 
