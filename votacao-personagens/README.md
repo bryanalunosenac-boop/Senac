@@ -1,14 +1,14 @@
-# 💻 Projeto - Painel-frase
+## Projeto - Votação de personagens
 
-O objetivo do projeto é gerar frases motivacionais após apertar no botão.
+A ideia desse projeto é criar um sistema de votação dos personagens de Smiling Friends, uma série de animação da Adult Swim.
 
 ---
 
 ## ⚙️ Funcionalidades
 
-- Gera Frases Motivacionais
-- Validação de campos
--Layout responsivo
+- Cria um sistema de votação
+- Mostra quem está ganhando em votos
+- Layout responsivo
 
 ---
 
@@ -31,7 +31,7 @@ O objetivo do projeto é gerar frases motivacionais após apertar no botão.
 3 Abra o arquivo index.html no navegador​
 
 Acesse o projeto online
-https://bryanalunosenac-boop.github.io/Senac/painel-frase/
+https://bryanalunosenac-boop.github.io/Senac/votacao-personagens/
 
 ---
 
