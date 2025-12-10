@@ -1,10 +1,10 @@
-# 🧮Calculadora Desconto
+# 🍪 Calculadora Desconto
 
-O objetivo do projeto é adicionar um valor no input do type="Date" e adicionar a opção de pagamento que respectivamente adicionara juros ou desconto.
+O objetivo do projeto é permitir que o usuário monte sua refeição selecionando pratos e bebidas. Em seguida, poderá escolher adicionais extras de sua preferência. Por fim, o sistema realizará o cálculo do valor total do pedido.
 
 ---
 
-## ⚙️Funcionalidades
+## ⚙️ Funcionalidades
 
 - Adiciona Desconto ou Juros
 - Validação de campos
@@ -22,7 +22,7 @@ O objetivo do projeto é adicionar um valor no input do type="Date" e adicionar 
 
 ---
 
-## 💿Como rodar o projeto​?
+## 💿 Como rodar o projeto​?
 
 1 Baixe o repositório (Clique no Botão “Code” > Download ZIP)​
 
@@ -35,7 +35,7 @@ https://bryanalunosenac-boop.github.io/Senac/Calculadora-Desconto/
 
 ---
 
-## 🧬Como clonar o projeto​
+## 🧬 Como clonar o projeto​
 No terminal do VS Code digite:​git clone https://github.com/bryanalunosenac-boop/Senac.git
 
 No GitHub Desktop:​No menu: File(Arquivo) > Clone a repositor(Clonar repositório) > Selecione a aba URL, no campo URL, cole o link do repositório
@@ -48,6 +48,7 @@ https://github.com/bryanalunosenac-boop/Senac.git
 
 - Organização na estrutura de códigos
 - Funções com a Linguagem JavaScrpit
+- Aprimoramento de validações com JavaScrpit
 
 ---
 
@@ -59,7 +60,9 @@ https://github.com/bryanalunosenac-boop/Senac.git
 ---
 
 ## 🖌️ Autor
+
 **Bryan Willian Cabral Brandão**
 
 Turma de Tecnologia em Informática para internet (Vespertino) - Senac DF
+
 
