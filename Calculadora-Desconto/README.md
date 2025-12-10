@@ -1,10 +1,10 @@
-#🧮Calculadora Desconto
+# 🧮Calculadora Desconto
 
 O objetivo do projeto é adicionar um valor no input do type="Date" e adicionar a opção de pagamento que respectivamente adicionara juros ou desconto.
 
 ---
 
-##⚙️Funcionalidades
+## ⚙️Funcionalidades
 
 - Adiciona Desconto ou Juros
 - Validação de campos
@@ -62,3 +62,4 @@ https://github.com/bryanalunosenac-boop/Senac.git
 **Bryan Willian Cabral Brandão**
 
 Turma de Tecnologia em Informática para internet (Vespertino) - Senac DF
+
