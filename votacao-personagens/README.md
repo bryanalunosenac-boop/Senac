@@ -1,4 +1,4 @@
-## Projeto - Votação de personagens
+## 🍪 Projeto - Votação de personagens
 
 A ideia desse projeto é criar um sistema de votação dos personagens de Smiling Friends, uma série de animação da Adult Swim.
 
