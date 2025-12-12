@@ -4,6 +4,8 @@ Este projeto consiste no desenvolvimento de uma loja virtual de artigos de rock,
 
 ---
 
+
+
 ## ⚙️ Funcionalidades
 
 - Uma loja de compras virtual
